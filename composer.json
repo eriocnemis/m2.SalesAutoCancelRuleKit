@@ -15,10 +15,10 @@
     "require": {
         "php": "~7.3.0||~7.4.0",
         "magento/framework": "103.0.*",
-        "eriocnemis/module-sales-autocancel-rule-api": "2.4.*",
-        "eriocnemis/module-sales-autocancel-rule": "2.4.*",
-        "eriocnemis/module-sales-autocancel-rule-admin-ui": "2.4.*",
-        "eriocnemis/module-sales-autocancel-rule-queue": "2.4.*"
+        "eriocnemis/module-sales-autocancel-rule-api": "2.4.2",
+        "eriocnemis/module-sales-autocancel-rule": "2.4.2",
+        "eriocnemis/module-sales-autocancel-rule-admin-ui": "2.4.2",
+        "eriocnemis/module-sales-autocancel-rule-queue": "2.4.2"
     },
     "autoload": {
         "files": [
